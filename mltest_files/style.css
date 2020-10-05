@@ -11,7 +11,7 @@ body {
     margin: 0 auto;
     border-radius: 10px;
     border: solid 1.5px #f3f1ee;
-    background-color: #d9455f;
+    background-color: #F8E0E0;
 }
 .file-upload-btn {
   width: 100%;
@@ -98,8 +98,8 @@ body {
 
 .try-again-btn {
   border-radius: 10px;
-  border: solid 1.5px #734226;
-  background-color: #734226;
+  border: solid 1.5px #e97171;
+  background-color: #e97171;
 }
 
 .try-again-text {
